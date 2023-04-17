@@ -7,6 +7,7 @@
     "require": {
         "php": "^7.3",
         "ext-gd": "*",
+        "arielmejiadev/larapex-charts": "^2.1",
         "barryvdh/laravel-dompdf": "^2.0",
         "brian2694/laravel-toastr": "^5.57",
         "fruitcake/laravel-cors": "^2.0",

@@ -9,17 +9,17 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <title>RSUD Genteng</title>
-  <link rel="stylesheet" href="/mobile/fonts/font.css">
-  <link rel="stylesheet" href="/mobile/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/mobile/css/animate.css">
-  <link rel="stylesheet" href="/mobile/css/owl.carousel.min.css">
-  <link rel="stylesheet" href="/mobile/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/mobile/css/default/lineicons.min.css">
-  <link rel="stylesheet" type="text/css" href="/datatables/css/jquery.dataTables.css">
-  <link rel="stylesheet" type="text/css" href="/datatables/fixedHeader.bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="/datatables/fixedColumns.bootstrap.min.css">
-  <link rel="stylesheet" href="/mobile/style.css">
-  <link rel="stylesheet" href="/bootstrap/css/toastr.min.css">
+  <link rel="stylesheet" href="https://resource.multimaxima.com/rsud_genteng/mobile/fonts/font.css">
+  <link rel="stylesheet" href="https://resource.multimaxima.com/rsud_genteng/mobile/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://resource.multimaxima.com/rsud_genteng/mobile/css/animate.css">
+  <link rel="stylesheet" href="https://resource.multimaxima.com/rsud_genteng/mobile/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://resource.multimaxima.com/rsud_genteng/mobile/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://resource.multimaxima.com/rsud_genteng/mobile/css/default/lineicons.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/datatables/css/jquery.dataTables.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/datatables/fixedHeader.bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/datatables/fixedColumns.bootstrap.min.css">
+  <link rel="stylesheet" href="https://resource.multimaxima.com/rsud_genteng/mobile/style.css">
+  <link rel="stylesheet" href="https://resource.multimaxima.com/rsud_genteng/bootstrap/css/toastr.min.css">
   @yield('style')
 </head>
 <body>
@@ -53,23 +53,23 @@
   @csrf
   </form>
 
-  <script src="/mobile/js/bootstrap.bundle.min.js"></script>
-  <script src="/mobile/js/jquery.min.js"></script>  
-  <script src="/mobile/js/waypoints.min.js"></script>
-  <script src="/mobile/js/jquery.easing.min.js"></script>
-  <script src="/mobile/js/owl.carousel.min.js"></script>
-  <script src="/mobile/js/jquery.counterup.min.js"></script>
-  <script src="/mobile/js/jquery.countdown.min.js"></script>
-  <script src="/mobile/js/default/jquery.passwordstrength.js"></script>
-  <script src="/mobile/js/default/dark-mode-switch.js"></script>
-  <script src="/mobile/js/default/no-internet.js"></script>
-  <script src="/mobile/js/default/active.js"></script>
-  <script src="/mobile/js/pwa.js"></script>
-  <script src="/datatables/js/jquery.dataTables.js"></script>  
-  <script src="/datatables/dataTables.fixedHeader.min.js"></script>  
-  <script src="/datatables/dataTables.fixedColumns.min.js"></script>  
-  <script src="/bootstrap/js/autoNumeric.min.js"></script>
-  <script src="/bootstrap/js/toastr.min.js"></script>  
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/bootstrap.bundle.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/jquery.min.js"></script>  
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/waypoints.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/jquery.easing.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/owl.carousel.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/jquery.counterup.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/jquery.countdown.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/default/jquery.passwordstrength.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/default/dark-mode-switch.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/default/no-internet.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/default/active.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/mobile/js/pwa.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/datatables/js/jquery.dataTables.js"></script>  
+  <script src="https://resource.multimaxima.com/rsud_genteng/datatables/dataTables.fixedHeader.min.js"></script>  
+  <script src="https://resource.multimaxima.com/rsud_genteng/datatables/dataTables.fixedColumns.min.js"></script>  
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/autoNumeric.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/toastr.min.js"></script>  
   @yield('script')
 
   <script type="text/javascript">

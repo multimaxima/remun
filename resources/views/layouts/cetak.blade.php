@@ -45,7 +45,7 @@
   <hr style="border-top-width: 3px; border-color: #000000; margin-top: 3px;">
   @yield('content')      
 
-  <script src="/bootstrap/js/jquery.table.marge.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/jquery.table.marge.js"></script>
   @yield('script')
 </body>
 </html>

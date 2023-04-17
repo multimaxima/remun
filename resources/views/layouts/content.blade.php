@@ -6,16 +6,16 @@
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <title>RSUD Genteng - @yield('title')</title>
   <link rel="shortcut icon" type="image/x-icon" href="/images/fav.png">
-  <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.css">
-  <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap-responsive.css">  
-  <link rel="stylesheet" type="text/css" href="/bootstrap/css/toastr.min.css">
-  <link rel="stylesheet" type="text/css" href="/datatables/css/jquery.dataTables.css">
-  <link rel="stylesheet" type="text/css" href="/datatables/fixedHeader.bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="/datatables/fixedColumns.bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="/bootstrap/select2/css/select2.min.css">
-  <link rel="stylesheet" type="text/css" href="/font_awesome/css/all.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/bootstrap/css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/bootstrap/css/bootstrap-responsive.css">  
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/bootstrap/css/toastr.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/datatables/css/jquery.dataTables.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/datatables/fixedHeader.bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/datatables/fixedColumns.bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/bootstrap/select2/css/select2.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/font_awesome/css/all.min.css">
 
-  <script src="/bootstrap/js/autoNumeric.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/autoNumeric.js"></script>
 
   @yield('style')
 </head>
@@ -85,27 +85,27 @@
   @csrf
   </form>
 
-  <script src="/bootstrap/js/jquery-3.6.0.min.js"></script>
-  <script src="/bootstrap/js/bootstrap-transition.js"></script>
-  <script src="/bootstrap/js/bootstrap-alert.js"></script>
-  <script src="/bootstrap/js/bootstrap-modal.js"></script>
-  <script src="/bootstrap/js/bootstrap-dropdown.js"></script>
-  <script src="/bootstrap/js/bootstrap-scrollspy.js"></script>
-  <script src="/bootstrap/js/bootstrap-tab.js"></script>
-  <script src="/bootstrap/js/bootstrap-tooltip.js"></script>
-  <script src="/bootstrap/js/bootstrap-popover.js"></script>
-  <script src="/bootstrap/js/bootstrap-button.js"></script>
-  <script src="/bootstrap/js/bootstrap-collapse.js"></script>
-  <script src="/bootstrap/js/bootstrap-carousel.js"></script>
-  <script src="/bootstrap/js/bootstrap-typeahead.js"></script>
-  <script src="/bootstrap/js/bootstrap-affix.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/jquery-3.6.0.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-transition.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-alert.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-modal.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-dropdown.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-scrollspy.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-tab.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-tooltip.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-popover.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-button.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-collapse.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-carousel.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-typeahead.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/bootstrap-affix.js"></script>
 
-  <script src="/bootstrap/js/jquery.table.marge.js"></script>    
-  <script src="/bootstrap/js/toastr.min.js"></script>  
-  <script src="/datatables/js/jquery.dataTables.js"></script>  
-  <script src="/datatables/dataTables.fixedHeader.min.js"></script>  
-  <script src="/datatables/dataTables.fixedColumns.min.js"></script>  
-  <script src="/bootstrap/select2/js/select2.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/jquery.table.marge.js"></script>    
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/js/toastr.min.js"></script>  
+  <script src="https://resource.multimaxima.com/rsud_genteng/datatables/js/jquery.dataTables.js"></script>  
+  <script src="https://resource.multimaxima.com/rsud_genteng/datatables/dataTables.fixedHeader.min.js"></script>  
+  <script src="https://resource.multimaxima.com/rsud_genteng/datatables/dataTables.fixedColumns.min.js"></script>  
+  <script src="https://resource.multimaxima.com/rsud_genteng/bootstrap/select2/js/select2.min.js"></script>
   
   @yield('script')
 

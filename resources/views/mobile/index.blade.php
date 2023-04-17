@@ -1,7 +1,7 @@
 @extends('mobile.layouts.content')
 
 @section('style')
-  <link rel="stylesheet" type="text/css" href="/apexcharts/dist/apexcharts.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/apexcharts/dist/apexcharts.css">
 @endsection
 
 @section('bawah')

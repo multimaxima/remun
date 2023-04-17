@@ -6,16 +6,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <link rel="shortcut icon" type="image/x-icon" href="/images/fav.png">
-  <link rel="stylesheet" type="text/css" href="/frontend/vendor/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="/frontend/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="/frontend/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
-  <link rel="stylesheet" type="text/css" href="/frontend/vendor/animate/animate.css">
-  <link rel="stylesheet" type="text/css" href="/frontend/vendor/css-hamburgers/hamburgers.min.css">
-  <link rel="stylesheet" type="text/css" href="/frontend/vendor/animsition/css/animsition.min.css">
-  <link rel="stylesheet" type="text/css" href="/frontend/vendor/select2/select2.min.css">
-  <link rel="stylesheet" type="text/css" href="/frontend/vendor/daterangepicker/daterangepicker.css">
-  <link rel="stylesheet" type="text/css" href="/frontend/css/util.css">
-  <link rel="stylesheet" type="text/css" href="/frontend/css/main.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/animate/animate.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/css-hamburgers/hamburgers.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/animsition/css/animsition.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/select2/select2.min.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/daterangepicker/daterangepicker.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/css/util.css">
+  <link rel="stylesheet" type="text/css" href="https://resource.multimaxima.com/rsud_genteng/frontend/css/main.css">
 </head>
 <body style="background-color: #666666;">
   
@@ -92,14 +92,14 @@
     </div>
   </div>
 
-  <script src="/frontend/vendor/jquery/jquery-3.2.1.min.js"></script>
-  <script src="/frontend/vendor/animsition/js/animsition.min.js"></script>
-  <script src="/frontend/vendor/bootstrap/js/popper.js"></script>
-  <script src="/frontend/vendor/bootstrap/js/bootstrap.min.js"></script>
-  <script src="/frontend/vendor/select2/select2.min.js"></script>
-  <script src="/frontend/vendor/daterangepicker/moment.min.js"></script>
-  <script src="/frontend/vendor/daterangepicker/daterangepicker.js"></script>
-  <script src="/frontend/vendor/countdowntime/countdowntime.js"></script>
-  <script src="/frontend/js/main.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/jquery/jquery-3.2.1.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/animsition/js/animsition.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/bootstrap/js/popper.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/bootstrap/js/bootstrap.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/select2/select2.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/daterangepicker/moment.min.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/daterangepicker/daterangepicker.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/frontend/vendor/countdowntime/countdowntime.js"></script>
+  <script src="https://resource.multimaxima.com/rsud_genteng/frontend/js/main.js"></script>
 </body>
 </html>
